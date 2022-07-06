@@ -57,17 +57,27 @@ font-family: 'Merriweather Sans', sans-serif;
     
 
 }
+ul{ 
+    
+    
+    text-align: center;
+}
 li{
+    
+    padding-top: 50px;
     display: inline-block;
+    
     font-size: 40px;
-    padding: 30px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    
+    
     font-weight: 700px;
-    margin-left: 20px;
+    margin-left: 10px;
+    width: 180px;
+    height: 150px;
     
     background-color:lightgray;
     border-radius: 10px;
+    
     
 
     
@@ -78,17 +88,18 @@ li:hover{
     color: blueviolet;
 }
 .cont1 nav{
-    padding: 20px;
-text-align: center;
+    padding:10px;
+text-align: justify;
 
 }
 
 
 .inputtext input{
+    margin-top: 50px;
     padding-top: 40px;
     padding-bottom: 20px;
-    margin-left: 20px;
-    width:1000px;
+    margin-left: 40px;
+    width:900px;
     border: none;
     border-bottom: 2px solid red;
     text-align: center;
@@ -109,8 +120,11 @@ text-align: center;
     height: 100vh;
     justify-content: center;
     align-items: center;
+    padding-top: 20px;
+   
 }
 .third h1{
+    
     font-size: 50px;
 }
 
@@ -156,6 +170,7 @@ text-align: center;
     background-color:rgb(175, 219, 255);
     margin: 5px;
     font-size: 20px;
+    border-radius: 5px;
     
     
 }
