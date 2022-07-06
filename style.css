@@ -60,7 +60,9 @@ font-family: 'Merriweather Sans', sans-serif;
 li{
     display: inline-block;
     font-size: 40px;
-    padding: 20px;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     font-weight: 700px;
     margin-left: 20px;
     
@@ -85,7 +87,8 @@ text-align: center;
 .inputtext input{
     padding-top: 40px;
     padding-bottom: 20px;
-    width: 800px;
+    margin-left: 20px;
+    width:1000px;
     border: none;
     border-bottom: 2px solid red;
     text-align: center;
@@ -153,7 +156,7 @@ text-align: center;
     background-color:rgb(175, 219, 255);
     margin: 5px;
     font-size: 20px;
-    border-radius: 5px;
+    
     
 }
 .cont2 p{
